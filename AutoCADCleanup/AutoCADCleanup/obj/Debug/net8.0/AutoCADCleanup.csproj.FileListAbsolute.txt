@@ -1,0 +1,71 @@
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AutoCADCleanup.deps.json
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AutoCADCleanup.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AutoCADCleanup.pdb
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcCui.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcDx.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcMr.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcSeamless.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcTcMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcWindows.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AdUIMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AdUiPalettes.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AdWindows.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcCoreMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcDbMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\acdbmgdbrep.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AecBaseMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AecPropDataMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AeccDataShortcutMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AeccDbMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AeccPressurePipesMgd.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CsvHelper.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CleanUp Window.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CleanUp Window.pdb
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CleanUp Window.dll.config
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.csproj.AssemblyReference.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.AssemblyInfoInputs.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.AssemblyInfo.cs
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.csproj.CoreCompileInputs.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADC.7F4E9750.Up2Date
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\refint\AutoCADCleanup.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.pdb
+D:\Autocad_cleanup_project\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\ref\AutoCADCleanup.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AutoCADCleanup.deps.json
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AutoCADCleanup.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AutoCADCleanup.pdb
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcCui.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcDx.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcMr.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcSeamless.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcTcMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcWindows.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AdUIMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AdUiPalettes.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AdWindows.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcCoreMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AcDbMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\acdbmgdbrep.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AecBaseMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AecPropDataMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AeccDataShortcutMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AeccDbMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\AeccPressurePipesMgd.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CsvHelper.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CleanUp Window.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CleanUp Window.pdb
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\bin\Debug\net8.0\CleanUp Window.dll.config
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.csproj.AssemblyReference.cache
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.AssemblyInfoInputs.cache
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.AssemblyInfo.cs
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.sourcelink.json
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADC.7F4E9750.Up2Date
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\refint\AutoCADCleanup.dll
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\AutoCADCleanup.pdb
+D:\GitHub\AutoCADCleanup\AutoCADCleanup\obj\Debug\net8.0\ref\AutoCADCleanup.dll

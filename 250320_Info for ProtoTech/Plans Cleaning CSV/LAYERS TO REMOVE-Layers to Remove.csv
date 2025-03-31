@@ -1,0 +1,12 @@
+Layers to Remove
+Layer,Description
+Gridlines,Gridlines and markers
+Annotations,"Architectural annotations (e.g. FFL markers, loading, schedule, etc.)"
+Elevation/Section Symbol,Markers indicating elevation/section cutline or direction
+Leaders,Leaders and annotations
+Hatches,Hatches to remove as too heavy to import to Illustrator
+Dimensions,Any kind of dimensions
+Title Blocks,Any layers related to layouts and title blocks
+Legend,Any layers related to legend
+Zoning,Layers indicating zones (usually more common in commercial plans)
+Others,Stray lines/points and lines that do not correspond to any physical object

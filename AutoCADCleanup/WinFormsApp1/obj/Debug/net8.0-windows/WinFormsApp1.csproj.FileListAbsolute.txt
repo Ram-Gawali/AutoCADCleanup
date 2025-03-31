@@ -1,0 +1,6 @@
+D:\Autocad_cleanup_project\AutoCADCleanup\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Autocad_cleanup_project\AutoCADCleanup\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Autocad_cleanup_project\AutoCADCleanup\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Autocad_cleanup_project\AutoCADCleanup\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

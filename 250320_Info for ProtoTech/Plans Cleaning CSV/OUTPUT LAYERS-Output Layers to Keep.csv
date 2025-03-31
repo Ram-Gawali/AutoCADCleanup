@@ -1,0 +1,16 @@
+Output Layers to Keep
+Layer,Description
+Walls,General wall lines
+Column,Columns - usually more prominent in office/commercial plans
+Doors,"Any kind of door (sliding, swing, pivot, etc.) including door, frame and swing radius"
+Windows,Any kind of window
+Facade,"Facade elements like louvers, screens, etc."
+Stairs,Stairs
+Furniture,"All furniture fittings whether fixed or movable (cabinetry, tables, chairs, etc.)"
+Sanitary,"Sanitary fittings (sink, toilet, cubicles, vanity, shower, etc.)"
+Floor,"Floor lines indicating level/finishing change, carpets, road kerb, etc."
+Text,Names of rooms
+Railings,Typically railings at balcony or stairs/ramps
+Plants,"Relevant for some plans only - any kind of planting, indoor or outdoor"
+Boundary Line,Site boundary lines - usually kept for reference
+Others,Layer for everything else

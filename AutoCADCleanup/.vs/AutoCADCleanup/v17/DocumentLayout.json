@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\AutoCADCleanup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DAF808-632A-4EDF-AE6D-E50BEC569BEB}|AutoCADCleanup\\AutoCADCleanup.csproj|d:\\github\\autocadcleanup\\autocadcleanup\\layers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DAF808-632A-4EDF-AE6D-E50BEC569BEB}|AutoCADCleanup\\AutoCADCleanup.csproj|solutionrelative:autocadcleanup\\layers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DAF808-632A-4EDF-AE6D-E50BEC569BEB}|AutoCADCleanup\\AutoCADCleanup.csproj|d:\\github\\autocadcleanup\\autocadcleanup\\uitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DAF808-632A-4EDF-AE6D-E50BEC569BEB}|AutoCADCleanup\\AutoCADCleanup.csproj|solutionrelative:autocadcleanup\\uitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0DAF808-632A-4EDF-AE6D-E50BEC569BEB}|AutoCADCleanup\\AutoCADCleanup.csproj|d:\\github\\autocadcleanup\\autocadcleanup\\simplify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0DAF808-632A-4EDF-AE6D-E50BEC569BEB}|AutoCADCleanup\\AutoCADCleanup.csproj|solutionrelative:autocadcleanup\\simplify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B20433C-D50C-45CD-910C-41C7E5365D38}|CleanUp Window\\CleanUp Window.csproj|D:\\GitHub\\AutoCADCleanup\\cleanup window\\blockpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B20433C-D50C-45CD-910C-41C7E5365D38}|CleanUp Window\\CleanUp Window.csproj|solutionrelative:cleanup window\\blockpreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UITable.cs",
+              "DocumentMoniker": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\UITable.cs",
+              "RelativeDocumentMoniker": "AutoCADCleanup\\UITable.cs",
+              "ToolTip": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\UITable.cs",
+              "RelativeToolTip": "AutoCADCleanup\\UITable.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:27:27.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlockPreview.cs",
+              "DocumentMoniker": "D:\\GitHub\\AutoCADCleanup\\CleanUp Window\\BlockPreview.cs",
+              "RelativeDocumentMoniker": "CleanUp Window\\BlockPreview.cs",
+              "ToolTip": "D:\\GitHub\\AutoCADCleanup\\CleanUp Window\\BlockPreview.cs",
+              "RelativeToolTip": "CleanUp Window\\BlockPreview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:29:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Layers.cs",
+              "DocumentMoniker": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\Layers.cs",
+              "RelativeDocumentMoniker": "AutoCADCleanup\\Layers.cs",
+              "ToolTip": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\Layers.cs*",
+              "RelativeToolTip": "AutoCADCleanup\\Layers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T06:58:29.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simplify.cs",
+              "DocumentMoniker": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\Simplify.cs",
+              "RelativeDocumentMoniker": "AutoCADCleanup\\Simplify.cs",
+              "ToolTip": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\Simplify.cs",
+              "RelativeToolTip": "AutoCADCleanup\\Simplify.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAcwEsBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T05:34:54.117Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1386,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+using Autodesk.AutoCAD.ApplicationServices;
+using Autodesk.AutoCAD.DatabaseServices;
+using Autodesk.AutoCAD.EditorInput;
+using Autodesk.AutoCAD.Runtime;
+using System;
+using System.Windows.Forms;
+
+public partial class LayerForm : Form
+{
+    public LayerForm()
+    {
+        InitializeComponent();
+        dataGridView1.CellContentClick += DataGridView1_CellContentClick;
+    }
+
+    private void DataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+    {
+        if (e.ColumnIndex == 2) // Assuming checkbox is at index 2
+        {
+            bool isChecked = (bool)dataGridView1.Rows[e.RowIndex].Cells[2].EditedFormattedValue;
+            string blockLayerName = dataGridView1.Rows[e.RowIndex].Cells[1].Value.ToString();
+            string selectedLayer = dataGridView1.Rows[e.RowIndex].Cells[3].Value.ToString();
+
+            if (isChecked && !string.IsNullOrEmpty(selectedLayer))
+            {
+                MoveEntitiesToLayer(blockLayerName, selectedLayer);
+            }
+        }
+    }
+
+    private void MoveEntitiesToLayer(string blockLayerName, string selectedLayer)
+    {
+        Document doc = Application.DocumentManager.MdiActiveDocument;
+        Database db = doc.Database;
+        Editor ed = doc.Editor;
+
+        using (Transaction tr = db.TransactionManager.StartTransaction())
+        {
+            LayerTable lt = (LayerTable)tr.GetObject(db.LayerTableId, OpenMode.ForRead);
+
+            if (!lt.Has(blockLayerName) || !lt.Has(selectedLayer))
+            {
+                ed.WriteMessage("Invalid layer name.");
+                return;
+            }
+
+            ObjectId selectedLayerId = lt[selectedLayer];
+            BlockTable bt = (BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead);
+            BlockTableRecord btr = (BlockTableRecord)tr.GetObject(bt[BlockTableRecord.ModelSpace], OpenMode.ForRead);
+
+            foreach (ObjectId objId in btr)
+            {
+                Entity ent = tr.GetObject(objId, OpenMode.ForWrite) as Entity;
+                if (ent != null && ent.Layer == blockLayerName)
+                {
+                    ent.LayerId = selectedLayerId;
+                }
+            }
+
+            tr.Commit();
+            ed.WriteMessage($"Entities moved from {blockLayerName} to {selectedLayer}.");
+        }
+    }
+} 

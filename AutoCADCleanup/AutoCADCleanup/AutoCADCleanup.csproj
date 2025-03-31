@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	 <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <WarningLevel>9999</WarningLevel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoCAD.NET" Version="25.0.1" />
+    <PackageReference Include="Civil3D.NET" Version="13.7.765" />
+    <PackageReference Include="CsvHelper" Version="33.0.1" />
+    
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+		<FrameworkReference Include="Microsoft.WindowsDesktop.App.WPF" />
+		<FrameworkReference Include="Microsoft.WindowsDesktop.App" />
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\CleanUp Window\CleanUp Window.csproj" />
+  </ItemGroup>
+	
+	
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="copy &quot;$(SolutionDir)\AutoCADCleanup\bin\$(Configuration)\net8.0\&quot; &quot;C:\Users\PTS-PC-263_USR02\AppData\Roaming\Autodesk\ApplicationPlugins\AutoCadCleanup.bundle\Contents\2025&quot;" />
+  </Target>
+
+</Project>

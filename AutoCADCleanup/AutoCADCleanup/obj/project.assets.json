@@ -1,0 +1,390 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "AutoCAD.NET/25.0.1": {
+        "type": "package",
+        "dependencies": {
+          "AutoCAD.NET.Core": "[25.0.0]"
+        },
+        "compile": {
+          "lib/net8.0/AcCui.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcDx.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcMr.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcSeamless.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcTcMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcWindows.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AdUIMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AdUiPalettes.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AdWindows.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AcCui.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcDx.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcMr.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcSeamless.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcTcMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AcWindows.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AdUIMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AdUiPalettes.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AdWindows.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AutoCAD.NET.Core/25.0.0": {
+        "type": "package",
+        "dependencies": {
+          "AutoCAD.NET.Model": "[25.0.0]"
+        },
+        "compile": {
+          "lib/net8.0/AcCoreMgd.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AcCoreMgd.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "AutoCAD.NET.Model/25.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/AcDbMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/acdbmgdbrep.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/AcDbMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/acdbmgdbrep.dll": {}
+        }
+      },
+      "Civil3D.NET/13.7.765": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/AecBaseMgd.dll": {},
+          "lib/net8.0/AecPropDataMgd.dll": {},
+          "lib/net8.0/AeccDataShortcutMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AeccDbMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AeccPressurePipesMgd.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/AecBaseMgd.dll": {},
+          "lib/net8.0/AecPropDataMgd.dll": {},
+          "lib/net8.0/AeccDataShortcutMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AeccDbMgd.dll": {
+            "related": ".xml"
+          },
+          "lib/net8.0/AeccPressurePipesMgd.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CsvHelper/33.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/CsvHelper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "CleanUp Window/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CleanUp Window.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanUp Window.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoCAD.NET/25.0.1": {
+      "sha512": "57MbBZyhQh6nM16w/tF88uXPUascZygGfYBzE9QsuaXjM/baPArjaTnAJmvfnkzgKLsXtZrJAzr2rCtxVygPiQ==",
+      "type": "package",
+      "path": "autocad.net/25.0.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "adsk.xml",
+        "autocad.net.25.0.1.nupkg.sha512",
+        "autocad.net.nuspec",
+        "lib/net8.0/AcCui.dll",
+        "lib/net8.0/AcCui.xml",
+        "lib/net8.0/AcDx.dll",
+        "lib/net8.0/AcDx.xml",
+        "lib/net8.0/AcMgd.dll",
+        "lib/net8.0/AcMgd.xml",
+        "lib/net8.0/AcMr.dll",
+        "lib/net8.0/AcMr.xml",
+        "lib/net8.0/AcSeamless.dll",
+        "lib/net8.0/AcSeamless.xml",
+        "lib/net8.0/AcTcMgd.dll",
+        "lib/net8.0/AcTcMgd.xml",
+        "lib/net8.0/AcWindows.dll",
+        "lib/net8.0/AcWindows.xml",
+        "lib/net8.0/AdUIMgd.dll",
+        "lib/net8.0/AdUIMgd.xml",
+        "lib/net8.0/AdUiPalettes.dll",
+        "lib/net8.0/AdUiPalettes.xml",
+        "lib/net8.0/AdWindows.dll",
+        "lib/net8.0/AdWindows.xml",
+        "tools/install.ps1"
+      ]
+    },
+    "AutoCAD.NET.Core/25.0.0": {
+      "sha512": "jPwsZgVs+4xqXtMLWJjgb4WSSzbb7YGbgn/BqT7LGPRthQb/93CmRZyuSgfjjSK8EgL+YsfRuRYVvYNGHrw3TA==",
+      "type": "package",
+      "path": "autocad.net.core/25.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "adsk.xml",
+        "autocad.net.core.25.0.0.nupkg.sha512",
+        "autocad.net.core.nuspec",
+        "lib/net8.0/AcCoreMgd.dll",
+        "lib/net8.0/AcCoreMgd.xml",
+        "tools/install.ps1"
+      ]
+    },
+    "AutoCAD.NET.Model/25.0.0": {
+      "sha512": "XGKd/R/MZ5oHFEMOtxHh9L307ss6XSnW4S0JSC3UkRjvdgv8rTygXkqz+vGoRoUl8IWU/ooskfVT/qOikFfteA==",
+      "type": "package",
+      "path": "autocad.net.model/25.0.0",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "adsk.xml",
+        "autocad.net.model.25.0.0.nupkg.sha512",
+        "autocad.net.model.nuspec",
+        "lib/net8.0/AcDbMgd.dll",
+        "lib/net8.0/AcDbMgd.xml",
+        "lib/net8.0/AcDbMgdBrep.xml",
+        "lib/net8.0/acdbmgdbrep.dll",
+        "tools/install.ps1"
+      ]
+    },
+    "Civil3D.NET/13.7.765": {
+      "sha512": "793TAnCWjj9lujgqAotAe+xE8rgiECXtJhByENdjxVSBjeLz1/H2sSs8nkCAYaXwzNi7RG8UHjuKvgBucxlwXg==",
+      "type": "package",
+      "path": "civil3d.net/13.7.765",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "License.txt",
+        "README.md",
+        "adsk.xml",
+        "civil3d.net.13.7.765.nupkg.sha512",
+        "civil3d.net.nuspec",
+        "lib/net8.0/AecBaseMgd.dll",
+        "lib/net8.0/AecPropDataMgd.dll",
+        "lib/net8.0/AeccDataShortcutMgd.dll",
+        "lib/net8.0/AeccDataShortcutMgd.xml",
+        "lib/net8.0/AeccDbMgd.dll",
+        "lib/net8.0/AeccDbMgd.xml",
+        "lib/net8.0/AeccPressurePipesMgd.dll",
+        "lib/net8.0/AeccPressurePipesMgd.xml",
+        "tools/install.ps1"
+      ]
+    },
+    "CsvHelper/33.0.1": {
+      "sha512": "fev4lynklAU2A9GVMLtwarkwaanjSYB4wUqO2nOJX5hnzObORzUqVLe+bDYCUyIIRQM4o5Bsq3CcyJR89iMmEQ==",
+      "type": "package",
+      "path": "csvhelper/33.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "csvhelper.33.0.1.nupkg.sha512",
+        "csvhelper.nuspec",
+        "lib/net462/CsvHelper.dll",
+        "lib/net462/CsvHelper.xml",
+        "lib/net47/CsvHelper.dll",
+        "lib/net47/CsvHelper.xml",
+        "lib/net48/CsvHelper.dll",
+        "lib/net48/CsvHelper.xml",
+        "lib/net6.0/CsvHelper.dll",
+        "lib/net6.0/CsvHelper.xml",
+        "lib/net7.0/CsvHelper.dll",
+        "lib/net7.0/CsvHelper.xml",
+        "lib/net8.0/CsvHelper.dll",
+        "lib/net8.0/CsvHelper.xml",
+        "lib/netstandard2.0/CsvHelper.dll",
+        "lib/netstandard2.0/CsvHelper.xml",
+        "lib/netstandard2.1/CsvHelper.dll",
+        "lib/netstandard2.1/CsvHelper.xml"
+      ]
+    },
+    "CleanUp Window/1.0.0": {
+      "type": "project",
+      "path": "../CleanUp Window/CleanUp Window.csproj",
+      "msbuildProject": "../CleanUp Window/CleanUp Window.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "AutoCAD.NET >= 25.0.1",
+      "Civil3D.NET >= 13.7.765",
+      "CleanUp Window >= 1.0.0",
+      "CsvHelper >= 33.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\AutoCADCleanup.csproj",
+      "projectName": "AutoCADCleanup",
+      "projectPath": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\AutoCADCleanup.csproj",
+      "packagesPath": "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\PTS-PC-263_USR02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\GitHub\\AutoCADCleanup\\CleanUp Window\\CleanUp Window.csproj": {
+              "projectPath": "D:\\GitHub\\AutoCADCleanup\\CleanUp Window\\CleanUp Window.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "AutoCAD.NET": {
+            "target": "Package",
+            "version": "[25.0.1, )"
+          },
+          "Civil3D.NET": {
+            "target": "Package",
+            "version": "[13.7.765, )"
+          },
+          "CsvHelper": {
+            "target": "Package",
+            "version": "[33.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

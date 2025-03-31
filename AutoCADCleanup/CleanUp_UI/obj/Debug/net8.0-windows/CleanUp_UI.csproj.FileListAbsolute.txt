@@ -1,0 +1,8 @@
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.csproj.AssemblyReference.cache
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_Window.UI_Table.resources
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.csproj.GenerateResource.cache
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.AssemblyInfoInputs.cache
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.AssemblyInfo.cs
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoCADCleanup\CleanUp_UI\obj\Debug\net8.0-windows\CleanUp_UI.sourcelink.json

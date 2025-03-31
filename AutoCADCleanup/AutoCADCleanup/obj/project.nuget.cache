@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "z2k1O2+XVYQ=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\AutoCADCleanup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\autocad.net\\25.0.1\\autocad.net.25.0.1.nupkg.sha512",
+    "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\autocad.net.core\\25.0.0\\autocad.net.core.25.0.0.nupkg.sha512",
+    "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\autocad.net.model\\25.0.0\\autocad.net.model.25.0.0.nupkg.sha512",
+    "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\civil3d.net\\13.7.765\\civil3d.net.13.7.765.nupkg.sha512",
+    "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

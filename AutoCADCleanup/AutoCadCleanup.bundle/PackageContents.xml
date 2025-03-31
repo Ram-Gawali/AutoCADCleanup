@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ApplicationPackage SchemaVersion="1.0" AutodeskProduct="AutoCAD" Name="Simplify Model" Description="This plugin enables you to Cleanup the model in AutoCAD" AppVersion="6.0.24164.3532" ProductType="Application" HelpFile="./Contents/HELP.html" SupportedLocales="Enu" AppNameSpace="appstore.exchange.autodesk.com" Author="ProtoTech Solutions and Services Pvt. Ltd" Icon="./Contents/Resources/Icons and CUIX/appicon.ico" OnlineDocumentation="http://prototechsolutions.com" FriendlyVersion="6.0.24164.3532" ProductCode="{7544C19C-F7B8-423F-B5EA-262C14F06F0B}" UpgradeCode="{2912544B-FA8D-4D42-AB63-84AA4260A8F9}">
+  <CompanyDetails Name="ProtoTech Solutions and Services Pvt. Ltd" Url="http://prototechsolutions.com" Email="Support@ProtoTechSolutions.com" Phone=" " />
+  <RuntimeRequirements />
+  <Components Description="2025 part">
+    <RuntimeRequirements OS="Win32|Win64" Platform="AutoCAD*" SeriesMin="R25.0" SeriesMax="R25.0" />
+    <ComponentEntry AppName="Simplify Model " Version="6.0.24164.3532" ModuleName="./Contents/2025/AutoCADCleanup.dll" AppDescription="This plugin enables you to Cleanup the model in AutoCAD" LoadOnAppearance="True" LoadOnAutoCADStartup="True">
+      <Commands>
+        <Command Local="Simplify" Global="Simplify" />
+      </Commands>
+    </ComponentEntry>
+    <ComponentEntry AppName="Simplify Model" Version="6.0.24164.3532" ModuleName="./Contents/Resources/Icons and CUIX/SimplifyDesign.cuix" AppDescription="Simplify Model" LoadOnAutoCADStartup="True" />
+  </Components>
+</ApplicationPackage>

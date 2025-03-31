@@ -1,0 +1,60 @@
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll.config
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.pdb
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.AssemblyReference.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.UI_Table.resources
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.Properties.Resources.resources
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.GenerateResource.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.CoreCompileInputs.cache
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.dll
+D:\Autocad_cleanup_project\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.pdb
+D:\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll.config
+D:\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll
+D:\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.pdb
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.AssemblyReference.cache
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.UI_Table.resources
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.Properties.Resources.resources
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.GenerateResource.cache
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.CoreCompileInputs.cache
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.dll
+D:\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.pdb
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll.config
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.pdb
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\accoremgd.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\acdbmgd.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\acmgd.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AdUiPalettes.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcDx.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcDxPublishUi.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AdWindows.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcCui.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcCustomize.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AppHomeInterop.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcMr.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcWindows.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AdUIMgd.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcTcMgd.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\AcMNUParser.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\Autodesk.AutoCAD.Interop.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\Autodesk.DesktopConnector.API.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\Serilog.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\Serilog.Sinks.File.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\acdbmgd.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcDx.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcDxPublishUi.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AdWindows.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcCustomize.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AppHomeInterop.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcMr.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcWindows.resources.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.AssemblyReference.cache
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.UI_Table.resources
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.Properties.Resources.resources
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.GenerateResource.cache
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp .1F93D5AA.Up2Date
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.dll
+D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.pdb
