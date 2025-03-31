@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoCADCleanup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+699e164275fc24e28c3894fc59bc496c5cdc0867")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c0419a4121d71b0a965baf377e285fbf621129e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutoCADCleanup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoCADCleanup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

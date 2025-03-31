@@ -1,0 +1,6 @@
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\Utility\bin\Debug\Utility.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\Utility\bin\Debug\Utility.pdb
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\Utility\obj\Debug\Utility.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\Utility\obj\Debug\Utility.pdb

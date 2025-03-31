@@ -58,3 +58,43 @@ D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.CoreComp
 D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp .1F93D5AA.Up2Date
 D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.dll
 D:\GitHub\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.pdb
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll.config
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\CleanUp Window.pdb
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\accoremgd.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\acdbmgd.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\acmgd.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AdUiPalettes.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcDx.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcDxPublishUi.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AdWindows.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcCui.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcCustomize.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AppHomeInterop.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcMr.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcWindows.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AdUIMgd.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcTcMgd.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\AcMNUParser.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\Autodesk.AutoCAD.Interop.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\Newtonsoft.Json.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\Autodesk.DesktopConnector.API.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\Serilog.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\Serilog.Sinks.File.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\Autodesk.AutoCAD.Interop.Common.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\acdbmgd.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcDx.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcDxPublishUi.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AdWindows.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcCustomize.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AppHomeInterop.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcMr.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\bin\Debug\en-US\AcWindows.resources.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.AssemblyReference.cache
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.UI_Table.resources
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp_Window.Properties.Resources.resources
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.GenerateResource.cache
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.csproj.CoreCompileInputs.cache
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp .1F93D5AA.Up2Date
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.dll
+D:\Backup\AutoCad-CleanUp\AutoCADCleanup\CleanUp Window\obj\Debug\CleanUp Window.pdb
