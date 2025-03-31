@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoCADCleanup", "AutoCADCl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanUp Window", "CleanUp Window\CleanUp Window.csproj", "{3B20433C-D50C-45CD-910C-41C7E5365D38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{F06FF549-EEE7-41CE-A1A1-06F3537F3EDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3B20433C-D50C-45CD-910C-41C7E5365D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B20433C-D50C-45CD-910C-41C7E5365D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B20433C-D50C-45CD-910C-41C7E5365D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06FF549-EEE7-41CE-A1A1-06F3537F3EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06FF549-EEE7-41CE-A1A1-06F3537F3EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06FF549-EEE7-41CE-A1A1-06F3537F3EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06FF549-EEE7-41CE-A1A1-06F3537F3EDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

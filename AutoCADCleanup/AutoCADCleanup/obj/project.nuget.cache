@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z2k1O2+XVYQ=",
+  "dgSpecHash": "BymyqYIw25w=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\AutoCADCleanup\\AutoCADCleanup\\AutoCADCleanup.csproj",
+  "projectFilePath": "D:\\Backup\\AutoCad-CleanUp\\AutoCADCleanup\\AutoCADCleanup\\AutoCADCleanup.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\autocad.net\\25.0.1\\autocad.net.25.0.1.nupkg.sha512",
     "C:\\Users\\PTS-PC-263_USR02\\.nuget\\packages\\autocad.net.core\\25.0.0\\autocad.net.core.25.0.0.nupkg.sha512",
